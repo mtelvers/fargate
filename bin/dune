@@ -1,0 +1,4 @@
+(executable
+ (public_name fargate)
+ (name main)
+ (libraries unix str notty notty.unix cmdliner))
